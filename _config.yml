@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Lock in alien.jpg"
+  avatar           : "Lockinalien.jpg"
   name             : "Intouch Yuso"
   pronouns         : "He/him"  
   bio              : "Hi my name is Intouch Yuso,I'm a 4th year Computer Engineering student"
